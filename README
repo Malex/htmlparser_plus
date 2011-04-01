@@ -1,0 +1,7 @@
+html.parser.HTMLParser is quite good for simple parsing,
+but laks many features.
+
+The purpose of this small library is to implement this
+features.
+
+Stay tuned.

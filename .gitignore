@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.swo
+*.db
+*frozen.egg-info*/*
+*.txt*
